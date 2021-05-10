@@ -1,0 +1,11 @@
+﻿  Source1.cpp
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(56,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(163,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(165,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(228,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(234,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(259,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paul.w.davis\source\repos\HarryPotter\Source1.cpp(261,27): warning C4018: '<': signed/unsigned mismatch
+  HarryPotter.vcxproj -> C:\Users\paul.w.davis\source\repos\HarryPotter\Debug\HarryPotter.exe
+  HarryPotter.vcxproj -> C:\Users\paul.w.davis\source\repos\HarryPotter\Debug\HarryPotter.pdb (Partial -> Full PDB)
