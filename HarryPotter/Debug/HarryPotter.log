@@ -1,0 +1,3 @@
+﻿  bookDFS.cpp
+C:\Users\paul.w.davis\source\repos\HarryPotter\bookDFS.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+  HarryPotter.vcxproj -> C:\Users\paul.w.davis\source\repos\HarryPotter\Debug\HarryPotter.exe
